@@ -24,13 +24,13 @@ repository               : "shrijitabhattacharya/shrijitabhattacharya.github.io"
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "Your Sidebar Name"
+  name             : "Shrijita Bhattacharya"
   pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
-  location         : "Earth"
-  employer         : "Red Brick University"
+  bio              : "Assistant Professor, Department of Statistics and Probability"
+  location         : "East Lansing"
+  employer         : "Michigan State University"
   uri              : # URL
-  email            : "none@example.org" 
+  email            : "bhatta61@msu.edu" 
 
   # Academic websites
   academia         : # URL
