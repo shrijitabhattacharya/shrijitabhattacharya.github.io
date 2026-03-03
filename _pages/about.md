@@ -9,7 +9,7 @@ redirect_from:
 
 I am an Assistant Professor in the Department of Statistics and Probability.
 
-I work primarily on fast and scalable Bayesian inference by leveraging generative models like Normalizing Flows. I also work on developing sparse and compact neural network architectures with applications to Image Classification. I also work on representation learning by leveraging Model Ensembling. I also work on learning binary causal graphs by leveraging Ising Distributions. I have worked on computer models with applications to simulation of Physics Experiments. 
+My research interests include fast and scalable Bayesian inference with generative models (Normalizing Flows) with applications to image classification, representation learning and low-latency models. In addition, I work on with binary causal graphs (Ising Distributions) and computer models with applications to spatial data arising in genetics, physical experiments and feature engineering.
 
 A data-driven personal website
 ======
