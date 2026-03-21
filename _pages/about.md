@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I am an Assistant Professor in the [Department of Statistics and Probability](https://stt.natsci.msu.edu/) at [Michigan State University](https://msu.edu/).  I serve as an AE for [Statistics and Data Mining](https://onlinelibrary.wiley.com/journal/19321872a).
+I am an Assistant Professor in the [Department of Statistics and Probability](https://stt.natsci.msu.edu/) at [Michigan State University](https://msu.edu/).  Currently, I serve as an AE for [Statistics and Data Mining](https://onlinelibrary.wiley.com/journal/19321872a).
 
 My research includes **approximate Bayesian inference** using **generative models (Normalizing Flows)** with applications to *image classification, representation learning, low-latency models and feature engineering* and **spatial data modeling** with **binary graphs (Ising Distributions)** and **computer models** with applications to *genetics and nuclear physics*.
 
