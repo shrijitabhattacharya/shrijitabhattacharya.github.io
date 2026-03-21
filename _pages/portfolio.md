@@ -23,7 +23,6 @@ guarantees of the credible coverage while ensuring scalable implementation with 
 <span style="font-size: 1.2em; color: #6b6b6b;">
 Premchandar S., Bhattacharya S., & Maiti T. (2023), *Notices of the American Mathematical Society*, 70(07) 
 </span>
-
 [Code](https://github.com/sumegha1024/Normalizing-Flows-Review).
 
 {% endcapture %}
