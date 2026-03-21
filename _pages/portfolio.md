@@ -21,9 +21,9 @@ guarantees of the credible coverage while ensuring scalable implementation with 
 **Key Papers**
 
 <span style="font-size: 1.2em; color: #6b6b6b;">
-Premchandar S., Bhattacharya S., & Maiti T. (2023), *Notices of the American Mathematical Society*, 70(07) 
+Premchandar S., Bhattacharya S., & Maiti T. (2023), *Notices of the American Mathematical Society*, 70(07) [Code](https://github.com/sumegha1024/Normalizing-Flows-Review).
+
 </span>
-[Code](https://github.com/sumegha1024/Normalizing-Flows-Review).
 
 {% endcapture %}
 <div class="notice--success">{{ gai | markdownify }}</div>
