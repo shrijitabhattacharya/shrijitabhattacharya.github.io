@@ -24,7 +24,6 @@ guarantees of the credible coverage while ensuring scalable implementation with 
 Premchandar S., Bhattacharya S., & Maiti T. (2023), *Notices of the American Mathematical Society*, 70(07) 
 </span>
 
-
 {% endcapture %}
 <div class="notice--success">{{ mf | markdownify }}</div>
 
