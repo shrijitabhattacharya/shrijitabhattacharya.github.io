@@ -8,7 +8,19 @@ author_profile: true
 {% include base_path %}
 
 
-{% for post in site.portfolio %}
-  {% include archive-single.html %}
-{% endfor %}
+Highlighted Research Contributions
+======
+
+{% capture mf %}
+**Fast and Exact Recovery of Bayesian Posteriors with Generative AI**
+
+Under this theme, we leverage generative models (normalizing flows in particular) to generate posteriors arising from statistical models. We provide theoretical 
+guarantees of the credible coverage while ensuring scalable implementation with variational inference.
+
+** Key Papers **
+<span style="font-size: 0.82em; color: #6b6b6b;">
+Premchandar S., Bhattacharya S., & Maiti T.
+</span>
+{% endcapture %}
+<div class="notice--success">{{ mf | markdownify }}</div>
 
