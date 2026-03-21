@@ -11,6 +11,8 @@ I am an Assistant Professor in the [Department of Statistics and Probability](ht
 
 My research focuses on approximate Bayesian inference using **generative models (Normalizing Flows)** with applications to **image classification, representation learning, low-latency models and feature engineering**. Additionally, I work on spatial data modeling by leveraging **binary graphs (Ising Distributions)** and **computer models** with applications to **genetics and nuclear physics**.
 
+My research was funded by  [NSF-DMS Award](https://www.nsf.gov/awardsearch/show-award?AWD_ID=1952856). I also received the [NAIRR Pilot grant](https://nairrpilot.org/projects/awarded?_requestNumber=NAIRR240098) from NSF in 2024. Currently, I serve as an associate editor for [Statistics and Data Mining](https://onlinelibrary.wiley.com/journal/19321872a).
+
 A data-driven personal website
 ======
 Like many other Jekyll-based GitHub Pages templates, Academic Pages makes you separate the website's content from its form. The content & metadata of your website are in structured Markdown files, while various other files constitute the theme, specifying how to transform that content & metadata into HTML pages. You keep these various Markdown (.md), YAML (.yml), HTML, and CSS files in a public GitHub repository. Each time you commit and push an update to the repository, the [GitHub pages](https://pages.github.com/) service creates static HTML pages based on these files, which are hosted on GitHub's servers free of charge.
