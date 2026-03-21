@@ -23,7 +23,7 @@ repository               : "shrijitabhattacharya/shrijitabhattacharya.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "profile_pic.jpg"
   name             : "Shrijita Bhattacharya"
   pronouns         : # example: "she/her"  
   bio              : "Assistant Professor, Department of Statistics and Probability"
