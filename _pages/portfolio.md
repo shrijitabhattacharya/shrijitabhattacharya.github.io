@@ -13,7 +13,7 @@ Highlighted Research Contributions
 
 {% capture gai %}
 
-**Fast and Exact Recovery of Bayesian Posteriors with Generative AI**
+**Recovery of Bayesian Posteriors with Generative AI**
 
 Under this theme, we leverage generative models (normalizing flows in particular) to generate posteriors arising from complex statistical models. We provide theoretical 
 guarantees of the credible coverage while ensuring scalable implementation with variational inference.
