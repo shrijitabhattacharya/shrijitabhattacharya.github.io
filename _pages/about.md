@@ -7,9 +7,9 @@ redirect_from:
   - /about.html
 ---
 
-I am an Assistant Professor in the Department of Statistics and Probability.
+I am an Assistant Professor in the [Department of Statistics and Probability](https://stt.natsci.msu.edu/) at [Michigan State University](https://msu.edu/)
 
-My research focuses on approximate Bayesian inference using generative models (Normalizing Flows) with applications to image classification, representation learning, low-latency models and feature engineering. Additionally, I work on spatial data modeling by leveraging binary graphs (Ising Distributions) and computer models with applications to genetics and nuclear physics.
+My research focuses on approximate Bayesian inference using **generative models (Normalizing Flows)** with applications to **image classification, representation learning, low-latency models and feature engineering**. Additionally, I work on spatial data modeling by leveraging **binary graphs (Ising Distributions)** and **computer models** with applications to **genetics and nuclear physics**.
 
 A data-driven personal website
 ======
