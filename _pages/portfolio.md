@@ -57,3 +57,23 @@ Under this theme, we use spike and slab shrinkage priors like Gaussian, Lasso an
 a classification model on Fashion-MNIST dataset by 20% and on CIFAR-10 dataset by 10%.
 
 
+**Key Papers**
+
+<span style="font-size: 0.9em; color: #6b6b6b;">
+Sanket Jantre, Shrijita Bhattacharya, Tapabrata Maiti, Spike-and-slab shrinkage priors for
+structurally sparse Bayesian neural networks, 2024, IEEE Transactions on Neural Networks
+and Learning Systems 36 (6), 11176-11188. [[Code](https://github.com/jsanket12/SS_Group_Shrinkage_New)].
+</span>
+
+<span style="font-size: 0.9em; color: #6b6b6b;">
+Sanket Jantre, Shrijita Bhattacharya, Tapabrata Maiti, Layer Adaptive Node Selection in
+Bayesian Neural Networks: Statistical Guarantees and Implementation Details, 2021, Neural
+Networks 167, 309-330. [[Code](https://github.com/jsanket12/SS_IG)].
+</span>
+
+
+{% endcapture %}
+<div class="notice--warning">{{ dnn | markdownify }}</div>
+
+{% capture dnn %}
+
