@@ -98,7 +98,7 @@ Statistics* 33(1), 75-84. [[Code]](https://github.com/stat-kim/vb-Ising).
 
 
 {% endcapture %}
-<div class="notice--warning">{{ isn | markdownify }}</div>
+<div class="notice--info">{{ isn | markdownify }}</div>
 
 
 
