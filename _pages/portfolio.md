@@ -108,6 +108,7 @@ Under this theme we developed a variational Bayes and empirical Bayes implementa
 
 
 **Key Papers**
+
 <span style="font-size: 0.9em; color: #6b6b6b;">
 Mookyong Son, Shrijita Bhattacharya, Vojtech Kejzlar, Tapabrata Maiti, Statistical Foundation
 of Variational Bayes Computer Models, under revision at the *Journal of Nonparametric
@@ -131,7 +132,6 @@ Under this theme, we developed tail adjusted box-plots to identify outliers in d
 
 **Key Papers**
 
-
 <span style="font-size: 0.9em; color: #6b6b6b;">
 **Shrijita Bhattacharya**, Francois Kamper, Jan Beirlant, Outlier detection based on extreme
 value theory and applications, 2023, *Scandinavian Journal of Statistics* 50 (3), 1466-1502 [[Code](https://github.com/shrijitabhattacharya/Outlier-detection-with-EVT)].
@@ -147,7 +147,6 @@ Journal of Statistics 13(1), 1872-1925*.
 {% endcapture %}
 <div class="notice--info">{{ out | markdownify }}</div>
 
-{% capture out %}
 
 
 
