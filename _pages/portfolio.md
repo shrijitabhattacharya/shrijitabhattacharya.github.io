@@ -60,20 +60,47 @@ a classification model on Fashion-MNIST dataset by 20% and on CIFAR-10 dataset b
 **Key Papers**
 
 <span style="font-size: 0.9em; color: #6b6b6b;">
-Sanket Jantre, Shrijita Bhattacharya, Tapabrata Maiti, Spike-and-slab shrinkage priors for
-structurally sparse Bayesian neural networks, 2024, IEEE Transactions on Neural Networks
-and Learning Systems 36 (6), 11176-11188. [[Code](https://github.com/jsanket12/SS_Group_Shrinkage_New)].
+Sanket Jantre, **Shrijita Bhattacharya**, Tapabrata Maiti, Spike-and-slab shrinkage priors for
+structurally sparse Bayesian neural networks, 2024, *IEEE Transactions on Neural Networks
+and Learning Systems* 36 (6), 11176-11188. [[Code](https://github.com/jsanket12/SS_Group_Shrinkage_New)].
 </span>
 
 <span style="font-size: 0.9em; color: #6b6b6b;">
-Sanket Jantre, Shrijita Bhattacharya, Tapabrata Maiti, Layer Adaptive Node Selection in
-Bayesian Neural Networks: Statistical Guarantees and Implementation Details, 2021, Neural
-Networks 167, 309-330. [[Code](https://github.com/jsanket12/SS_IG)].
+Sanket Jantre, **Shrijita Bhattacharya**, Tapabrata Maiti, Layer Adaptive Node Selection in
+Bayesian Neural Networks: Statistical Guarantees and Implementation Details, 2021, *Neural
+Networks* 167, 309-330. [[Code](https://github.com/jsanket12/SS_IG)].
 </span>
 
 
 {% endcapture %}
 <div class="notice--warning">{{ dnn | markdownify }}</div>
 
-{% capture dnn %}
+{% capture isn %}
+
+** Binary Graphical Models aided Variable Selection**
+
+Under this theme, we have exploited Ising distributions to capture the graphical structure among binary variables. This allowed for high dimensional variable selection, especially when the predictors share a network structure. A variational Bayes algorithm providing 200X speed over Gibbs sampling was developed.
+
+**Key Papers**
+
+
+<span style="font-size: 0.9em; color: #6b6b6b;">
+Siddhartha Nandy, Minwoo Kim, **Shrijita Bhattacharya**, Tapabrata Maiti, Variational inference
+aided variable selection for spatially structured high dimensional covariates, 2025,
+*Journal of Computational and Graphical Statistics* 35 (1), 482-493 [[Code](https://github.com/shrijitabhattacharya/VI-aided-variable-selection-with-Ising)].
+</span>
+
+<span style="font-size: 0.9em; color: #6b6b6b;">
+Minwoo Kim, **Shrijita Bhattacharya**, Tapabrata Maiti, Statistically valid variational bayes
+algorithm for Ising model parameter estimation, 2024, *Journal of Computational and Graphical
+Statistics* 33(1), 75-84. [[Code]](https://github.com/stat-kim/vb-Ising).
+</span>
+
+
+{% endcapture %}
+<div class="notice--warning">{{ isn | markdownify }}</div>
+
+
+
+
 
