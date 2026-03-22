@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "Research"
+title: "Highlighted Research Contributions"
 permalink: /portfolio/
 author_profile: true
 ---
