@@ -8,9 +8,6 @@ author_profile: true
 {% include base_path %}
 
 
-Highlighted Research Contributions
-======
-
 {% capture gai %}
 
 **Recovery of Bayesian Posteriors with Generative AI**
