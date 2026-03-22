@@ -15,7 +15,7 @@ main:
     url: /publications/
 
   - title: "Software"
-    url: /talks/    
+    url: /software/    
 
   - title: "Teaching"
     url: /teaching/    
@@ -23,6 +23,6 @@ main:
   - title: "Talks"
     url: /talks/    
     
-  - title: "CV"
-    url: /cv/
+  - title: "Outreach"
+    url: /outreach/
     
