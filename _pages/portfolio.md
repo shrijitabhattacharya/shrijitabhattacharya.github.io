@@ -100,6 +100,31 @@ Statistics* 33(1), 75-84. [[Code]](https://github.com/stat-kim/vb-Ising).
 {% endcapture %}
 <div class="notice--info">{{ isn | markdownify }}</div>
 
+{% capture out %}
+
+**Outlier Detection with Extreme Value Theory**
+
+Under this theme, we developed tail adjusted box-plots to identify outliers in data with tails heavier or lighter than Gaussian. A weighted sequential testing algorithm was implemented which moved sequentially to detect the onset of outlier regime, especially useful in insurance claims or Internet traffic data.
+
+**Key Papers**
+
+
+<span style="font-size: 0.9em; color: #6b6b6b;">
+**Shrijita Bhattacharya**, Francois Kamper, Jan Beirlant, Outlier detection based on extreme
+value theory and applications, 2023, *Scandinavian Journal of Statistics* 50 (3), 1466-1502 [[Code](https://github.com/shrijitabhattacharya/Outlier-detection-with-EVT)].
+</span>
+
+<span style="font-size: 0.9em; color: #6b6b6b;">
+**Shrijita Bhattacharya**, Michael Kallitsis, Stilian Stoev, Data-adaptive trimming of the Hill
+estimator and detection of outliers in the extremes of heavy-tailed data, 2019, *Electronic
+Journal of Statistics 13(1), 1872-1925*.
+</span>
+
+
+{% endcapture %}
+<div class="notice--info">{{ out | markdownify }}</div>
+
+{% capture out %}
 
 
 
