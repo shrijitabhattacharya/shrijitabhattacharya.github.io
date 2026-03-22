@@ -122,7 +122,7 @@ Computing 31(49), 1-49 [[Code]](https://github.com/kejzlarv/EB_Calibration).
 </span>
 
 {% endcapture %}
-<div class="notice--info">{{ scm | markdownify }}</div>
+<div class="notice--success">{{ scm | markdownify }}</div>
 
 {% capture out %}
 
@@ -145,7 +145,7 @@ Journal of Statistics 13(1), 1872-1925*.
 
 
 {% endcapture %}
-<div class="notice--info">{{ out | markdownify }}</div>
+<div class="notice--warning">{{ out | markdownify }}</div>
 
 
 
