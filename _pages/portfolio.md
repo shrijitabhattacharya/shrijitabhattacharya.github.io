@@ -117,8 +117,8 @@ Statistics*. [[Code](https://github.com/shrijitabhattacharya/VB-Computer-Models)
 
 <span style="font-size: 0.9em; color: #6b6b6b;">
 Vojtech Kejzlar, Mookyong Son, Shrijita Bhattacharya, Tapabrata Maiti, A fast, scalable,
-and calibrated computer model emulator: an empirical Bayes approach, 2021, Statistics and
-Computing 31(49), 1-49 [[Code]](https://github.com/kejzlarv/EB_Calibration).
+and calibrated computer model emulator: an empirical Bayes approach, 2021, *Statistics and
+Computing* 31(49), 1-49 [[Code]](https://github.com/kejzlarv/EB_Calibration).
 </span>
 
 {% endcapture %}
