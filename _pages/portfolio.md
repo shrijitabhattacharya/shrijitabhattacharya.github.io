@@ -51,7 +51,7 @@ Bayesian model averaging, 2022, *The American Statistician* 0(0) 1-12 [[Code](ht
 
 {% capture dnn %}
 
-** Low-latency Deep Neural Networks with Spike-and-slab**
+**Low-latency Deep Neural Networks with Spike-and-slab**
 
 Under this theme, we use spike and slab shrinkage priors like Gaussian, Lasso and Horse-shoe for selecting useful neurons in a data-adaptive approach. We contrast the performance of these three priors in asymptotic performance and time complexity of implementation. We reduced the deployment time of
 a classification model on Fashion-MNIST dataset by 20% and on CIFAR-10 dataset by 10%.
@@ -77,7 +77,7 @@ Networks* 167, 309-330. [[Code](https://github.com/jsanket12/SS_IG)].
 
 {% capture isn %}
 
-** Binary Graphical Models aided Variable Selection**
+**Binary Graphical Models aided Variable Selection**
 
 Under this theme, we have exploited Ising distributions to capture the graphical structure among binary variables. This allowed for high dimensional variable selection, especially when the predictors share a network structure. A variational Bayes algorithm providing 200X speed over Gibbs sampling was developed.
 
