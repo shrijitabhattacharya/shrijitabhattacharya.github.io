@@ -111,13 +111,13 @@ Under this theme we developed a variational Bayes and empirical Bayes implementa
 <span style="font-size: 0.9em; color: #6b6b6b;">
 Mookyong Son, Shrijita Bhattacharya, Vojtech Kejzlar, Tapabrata Maiti, Statistical Foundation
 of Variational Bayes Computer Models, under revision at the *Journal of Nonparametric
-Statistics*. 
+Statistics*. [[Code](https://github.com/shrijitabhattacharya/VB-Computer-Models)]. 
 </span>
 
 <span style="font-size: 0.9em; color: #6b6b6b;">
-Minwoo Kim, **Shrijita Bhattacharya**, Tapabrata Maiti, Statistically valid variational bayes
-algorithm for Ising model parameter estimation, 2024, *Journal of Computational and Graphical
-Statistics* 33(1), 75-84. [[Code]](https://github.com/stat-kim/vb-Ising).
+Vojtech Kejzlar, Mookyong Son, Shrijita Bhattacharya, Tapabrata Maiti, A fast, scalable,
+and calibrated computer model emulator: an empirical Bayes approach, 2021, Statistics and
+Computing 31(49), 1-49 [[Code]](https://github.com/kejzlarv/EB_Calibration).
 </span>
 
 {% endcapture %}
