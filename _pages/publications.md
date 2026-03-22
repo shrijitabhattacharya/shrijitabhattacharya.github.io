@@ -10,7 +10,6 @@ author_profile: true
 {% endif %}
 
 <p><span style="color: green;">color</span> indicates supervised student</p>
-
 {% include base_path %}
 
 {% for post in site.publications reversed %}
