@@ -100,6 +100,29 @@ Statistics* 33(1), 75-84. [[Code]](https://github.com/stat-kim/vb-Ising).
 {% endcapture %}
 <div class="notice--info">{{ isn | markdownify }}</div>
 
+{% capture scm %}
+
+**Scalable Computer Models**
+
+Under this theme we developed a variational Bayes and empirical Bayes implementation corresponding to the Kennedy and O'Hagan approach of implementing computer models. A 60X scale up in speed was observed for a simple two-parameter regression problem.
+
+
+**Key Papers**
+<span style="font-size: 0.9em; color: #6b6b6b;">
+Mookyong Son, Shrijita Bhattacharya, Vojtech Kejzlar, Tapabrata Maiti, Statistical Foundation
+of Variational Bayes Computer Models, under revision at the *Journal of Nonparametric
+Statistics*. 
+</span>
+
+<span style="font-size: 0.9em; color: #6b6b6b;">
+Minwoo Kim, **Shrijita Bhattacharya**, Tapabrata Maiti, Statistically valid variational bayes
+algorithm for Ising model parameter estimation, 2024, *Journal of Computational and Graphical
+Statistics* 33(1), 75-84. [[Code]](https://github.com/stat-kim/vb-Ising).
+</span>
+
+{% endcapture %}
+<div class="notice--info">{{ isn | markdownify }}</div>
+
 {% capture out %}
 
 **Outlier Detection with Extreme Value Theory**
