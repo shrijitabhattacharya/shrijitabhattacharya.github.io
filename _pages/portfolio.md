@@ -121,7 +121,7 @@ Computing 31(49), 1-49 [[Code]](https://github.com/kejzlarv/EB_Calibration).
 </span>
 
 {% endcapture %}
-<div class="notice--info">{{ isn | markdownify }}</div>
+<div class="notice--info">{{ scm | markdownify }}</div>
 
 {% capture out %}
 
