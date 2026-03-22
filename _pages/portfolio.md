@@ -25,7 +25,7 @@ Sumegha Premchandar, **Shrijita Bhattacharya**, and Tapabrata Maiti (2023), *Not
 </span>
 
 {% endcapture %}
-<div class="notice--success">{{ gai | markdownify }}</div>
+<div class="notice--info">{{ gai | markdownify }}</div>
 
 {% capture rlm %}
 
