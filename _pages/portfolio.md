@@ -31,7 +31,7 @@ Sumegha Premchandar, **Shrijita Bhattacharya**, and Tapabrata Maiti (2023), *Not
 
 **Representation Learning with Model Ensembling**
 
-Under this theme, we leverage Bayesian model ensembling to learn intrinsic dimension of images. We use the highest posterior density regions to select the hidden dimensionality of an object. To achieve parallelization across models, we implement a variational Bayes approximation.
+Under this theme, we leverage Bayesian model ensembling to learn intrinsic dimension of images. We use the highest posterior density regions to select the hidden dimensionality of an object. To achieve parallelization across models, we implement a variational Bayes approximation. We were able to achieve a 10% compression on MNIST image data and an 18% compression on Fashion-MNIST.
 
 **Key Papers**
 
@@ -48,4 +48,12 @@ Bayesian model averaging, 2022, *The American Statistician* 0(0) 1-12 [[Code](ht
 
 {% endcapture %}
 <div class="notice--success">{{ rlm | markdownify }}</div>
+
+{% capture dnn %}
+
+** Low-latency Deep Neural Networks with Spike-and-slab**
+
+Under this theme, we use spike and slab shrinkage priors like Gaussian, Lasso and Horse-shoe for selecting useful neurons in a data-adaptive approach. We contrast the performance of these three priors in asymptotic performance and time complexity of implementation. We reduced the deployment time of
+a classification model on Fashion-MNIST dataset by 20% and on CIFAR-10 dataset by 10%.
+
 
