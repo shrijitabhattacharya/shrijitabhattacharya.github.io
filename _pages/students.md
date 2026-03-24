@@ -18,9 +18,11 @@ PhD students
 
 ### Past Students
 
-[Sumegha Premchandar](https://www.linkedin.com/in/sumegha-premchandar-914031184/), Graduated 2024
-Defense Topic: [Normalizing Flows Aided Variational Inference for Uncertainty Quantification](https://doi.org/doi:10.25335/pcp7-cj26)
-Current Affiliation: Quantitative analytics specialist, Wells Fargo
+* [Sumegha Premchandar](https://www.linkedin.com/in/sumegha-premchandar-914031184/), Graduated 2024
+
+  Defense Topic: [Normalizing Flows Aided Variational Inference for Uncertainty Quantification](https://doi.org/doi:10.25335/pcp7-cj26)
+
+  Current Affiliation: Quantitative analytics specialist, Wells Fargo
 
 
 Master Students
