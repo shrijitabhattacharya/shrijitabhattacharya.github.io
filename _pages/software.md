@@ -21,5 +21,5 @@ Reproducibility
 * [Black box variational Bayesian model averaging](https://github.com/kejzlarv/BBVBMA) (2023) *The American Statistician* 77(1):85-96.
 * [Variational Bayes Ensemble Learning Neural Networks With Compressed Feature Space](https://github.com/shrijitabhattacharya/VB-Ensemble-Learning-NNs-with-Compressed-Feature-Space) (2022) *IEEE Transactions on Neural Networks and Learning Systems* 35(1):1379-1385.
 * [Quantile regression neural networks: a Bayesian approach](https://static-content.springer.com/esm/art%3A10.1007%2Fs42519-021-00189-w/MediaObjects/42519_2021_189_MOESM1_ESM.pdf) (2021) *Journal of Statistical Theory and Practice* 15(3):68.
-* [A fast and calibrated computer model emulator: an empirical Bayes approach] (https://github.com/kejzlarv/EB_Calibration) (2021) *Statistics and Computing 31(4):49.*
-* [Data-adaptive trimming of the Hill estimator and detection of outliers in the extremes of heavy-tailed data] (https://github.com/shrijitabhattacharya/Data-adaptive-trimming-of-the-Hill-estimator) *Electronic Journal of Statistics* 13(1):1872-1925.
+* [A fast and calibrated computer model emulator: an empirical Bayes approach](https://github.com/kejzlarv/EB_Calibration) (2021) *Statistics and Computing 31(4):49.*
+* [Data-adaptive trimming of the Hill estimator and detection of outliers in the extremes of heavy-tailed data](https://github.com/shrijitabhattacharya/Data-adaptive-trimming-of-the-Hill-estimator) *Electronic Journal of Statistics* 13(1):1872-1925.
