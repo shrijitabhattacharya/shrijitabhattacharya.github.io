@@ -1,20 +1,19 @@
 ---
-title: "Teaching experience 1"
+title: "STT 867: Linear Model Methodology"
 collection: teaching
-type: "Undergraduate course"
-permalink: /teaching/2014-spring-teaching-1
-venue: "University 1, Department"
-date: 2014-01-01
-location: "City, Country"
+type: "Graduate course"
+venue: "Michigan State University"
+semester: "2025 Fall"
+textbook: "Linear Model Methodology, Andre I. Khuri (2009)."
 ---
 
-This is a description of a teaching experience. You can use markdown like any other post.
-
-Heading 1
-======
-
-Heading 2
-======
-
-Heading 3
-======
+STT 867 is the prelim qualifier course for PhD students in statistics.
+This course covers the following topics:
+* Least squares, Gauss-Markov Theorem and extensions.
+* Hypothesis testing and confidence region.
+* Simultaneous confidence intervals.
+* Less-than-full-rank linear models.
+* Estimable/Testable linear functions.
+* Distributional properties of quadratic forms.
+* Model selection and prediction.
+* Shrinkage methods.
