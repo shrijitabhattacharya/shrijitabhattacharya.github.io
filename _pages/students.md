@@ -22,10 +22,8 @@ PhD students
   Defense Topic: [Normalizing Flows Aided Variational Inference for Uncertainty Quantification](https://doi.org/doi:10.25335/pcp7-cj26).\
   Current Affiliation: Quantitative analytics specialist, Wells Fargo.
 
-* [Sanket Jantre](https://www.linkedin.com/in/sanket-jantre/), Graduated 2022.
-
-  Defense Topic: [Consistent Bayesian Learning for Neural Network Models: Theory and Computation](https://doi.org/doi:10.25335/qb5w-ek94)
-
+* [Sanket Jantre](https://www.linkedin.com/in/sanket-jantre/), Graduated 2022.\
+  Defense Topic: [Consistent Bayesian Learning for Neural Network Models: Theory and Computation](https://doi.org/doi:10.25335/qb5w-ek94).\
   Current Affiliation: Research Staff 3, Applied Mathematics, Brookhaven National Laboratory.  
 
 
