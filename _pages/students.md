@@ -13,8 +13,8 @@ PhD students
 
 ### Current Students
 
-[Jiefu Zhou](https://directory.natsci.msu.edu/Directory/Profiles/Person/102500) 2023-present. 
-[Rachita Mandal](https://directory.natsci.msu.edu/directory/Profiles/Person/102878) 2024-present.
+* [Jiefu Zhou](https://directory.natsci.msu.edu/Directory/Profiles/Person/102500) 2023-present. 
+* [Rachita Mandal](https://directory.natsci.msu.edu/directory/Profiles/Person/102878) 2024-present.
 
 ### Past Students
 
