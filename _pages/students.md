@@ -38,5 +38,18 @@ PhD students
   Defense Topic: [Variational Bayes deep neural network: Theory, Methods and Applications](https://doi.org/doi:10.25335/18hz-bj81).\
   Current Affiliation: Manager, Statistics, Abbvie.
 
+* [Raka Mandal](https://www.linkedin.com/in/raka-mandal-071932a9/), Graduated 2020.\
+  Defense Topic: [Quantile Regression and Extremes](https://doi.org/doi:10.25335/dkty-k471).\
+  Current Affiliation: Senior Consultant, FSRM, EY.
+
+* [Fatimah Alshahrani](https://www.linkedin.com/in/fatimah-alshahrani-8124981b5/), Graduated 2020.\
+  Defense Topic: [Mixture innovations’ based auto-regressive processes with application to sea level rise data](https://doi.org/doi:10.25335/3t8x-bj92).\
+  Current Affiliation: Visiting Researcher, Rice University.
+
 Master Students
 ======
+
+* [Joseph Weaver](https://directory.natsci.msu.edu/directory/Profiles/Person/102509), Graduated 2024.\
+  Defense Topic: [Learning the intrinsic dimension of complex large datasets](https://doi.org/doi:10.25335/9yyt-3r55).\
+  Current Affiliation: PhD Student, Michigan State University.
+
