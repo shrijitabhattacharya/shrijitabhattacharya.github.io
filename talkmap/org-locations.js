@@ -5,13 +5,18 @@ var addressPoints = [
     -100.7967883
   ],
   [
+    "IEEE Global Conference on Signal and Information Processing, Global SIP<br />Adaptive statistical detection of false data injection attacks in smart grids.; Washington D.C., USA.",
+    38.8950368,
+    -77.0365427
+  ],
+  [
     "Workshop on Efficient Approximate Bayesian Inference, Banff International Research Station.<br />Variational inference aided variable selection for spatially structured high dimensional covariates.; Banff, Alberta, Canada.",
     51.175076,
     -115.5720773
   ],
   [
     "Joint Statistical Meetings<br />Variational inference aided variable selection for spatially structured high dimensional covariates.; Portland, Seattle, USA.",
-    47.533086,
-    -122.2924946
+    47.5330918,
+    -122.293427
   ]
 ];
