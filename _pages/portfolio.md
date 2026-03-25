@@ -18,7 +18,11 @@ guarantees of the credible coverage while ensuring scalable implementation with 
 **Key Papers**
 
 <span style="font-size: 0.9em; color: #6b6b6b;">
-Sumegha Premchandar, **Shrijita Bhattacharya**, and Tapabrata Maiti (2023), *Notices of the American Mathematical Society*, 70(07) [[Code](https://github.com/sumegha1024/Normalizing-Flows-Review)].
+Jiefu Zhou and **Shrijita Bhattacharya**, Neural Autoregressive Flows based Variational Bayes Model Averaging, 2026, *The American Statistician*, accepted [[Code](https://github.com/Jiefu-git/NAF-BMA.git)].
+</span>
+
+<span style="font-size: 0.9em; color: #6b6b6b;">
+Sumegha Premchandar, **Shrijita Bhattacharya**, and Tapabrata Maiti, 2023, *Notices of the American Mathematical Society*, 70(07) [[Code](https://github.com/sumegha1024/Normalizing-Flows-Review)].
 </span>
 
 {% endcapture %}
