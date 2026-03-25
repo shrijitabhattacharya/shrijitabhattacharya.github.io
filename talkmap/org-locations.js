@@ -20,6 +20,11 @@ var addressPoints = [
     -3.1883749
   ],
   [
+    "International Indian Statistical Association Conference<br />Data-adaptive trimming of the Hill estimator and detection of outliers in the extremes of heavy-tailed data.; Hyderabad, India.",
+    17.360589,
+    78.4740613
+  ],
+  [
     "International Chinese Statistical Association<br />Statistically valid variational Bayes algorithm for Ising model parameter estimation; Ann Arbor, USA.",
     42.2813722,
     -83.7484616
