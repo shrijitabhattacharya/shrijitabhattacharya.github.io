@@ -30,6 +30,11 @@ var addressPoints = [
     -122.3846737
   ],
   [
+    "International Conference of the ERCIM WG on Computational and Methodological Statistics<br />Comprehensive study of variational Bayes classification for dense deep neural networks; Virtual",
+    44.4939936,
+    11.3576917
+  ],
+  [
     "Information and Statistics for Nuclear Experiment and Theory (ISNET)<br />Black Box Variational Bayesian Model Averaging.; East Lansing, USA.",
     42.7320307,
     -84.4721678
