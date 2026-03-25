@@ -20,7 +20,7 @@ var addressPoints = [
     -83.7484616
   ],
   [
-    "Joint Statistical Meetings<br />Variable Selection with Deep Neural Networks using \u03b1-Regularized Variational Inference.; Toronto, Canada, USA.",
+    "Joint Statistical Meetings<br />Statistical Foundation of Variational Bayes Computer Models.; Toronto, Canada, USA.",
     46.8431221,
     -100.7967883
   ],
@@ -31,8 +31,8 @@ var addressPoints = [
   ],
   [
     "Joint Statistical Meetings<br />Variational inference aided variable selection for spatially structured high dimensional covariates.; Portland, Seattle, USA.",
-    47.5330918,
-    -122.293427
+    47.5329118,
+    -122.3846737
   ],
   [
     "Joint Statistical Meetings<br />Variable Selection with Deep Neural Networks using \u03b1-Regularized Variational Inference.; Toronto, Canada.",
