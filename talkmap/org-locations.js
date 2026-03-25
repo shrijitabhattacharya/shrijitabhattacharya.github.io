@@ -1,6 +1,6 @@
 var addressPoints = [
   [
-    "9th International Conference of the ERCIM WG on Computational and Methodological Statistics<br />Adaptive statistical detection of false data injection attacks in smart grids.; Seville, Spain.",
+    "International Conference of the ERCIM WG on Computational and Methodological Statistics<br />AMON: An open source architecture for online monitoring, statistical analysis, and forensics of multi-gigabit streams.; Seville, Spain.",
     37.3886303,
     -5.9953403
   ],
@@ -41,8 +41,8 @@ var addressPoints = [
   ],
   [
     "Joint Statistical Meetings<br />Variational inference aided variable selection for spatially structured high dimensional covariates.; Portland, Seattle, USA.",
-    47.533086,
-    -122.2924946
+    47.5330918,
+    -122.293427
   ],
   [
     "Joint Statistical Meetings<br />Variable Selection with Deep Neural Networks using \u03b1-Regularized Variational Inference.; Toronto, Canada.",
@@ -68,5 +68,10 @@ var addressPoints = [
     "SIAM conference on Uncertainty Quantification<br />Layer Adaptive Node Selection in Bayesian Neural Networks: Statistical Guarantees and Implementation Details.; Atlanta, USA.",
     33.7544657,
     -84.3898151
+  ],
+  [
+    "Extreme Value Analysis Conference, TU Delft.<br />Data-adaptive trimming of the Hill estimator and detection of outliers in the extremes of heavy-tailed data.; Delft, Netherlands.",
+    52.0114017,
+    4.35839
   ]
 ];
