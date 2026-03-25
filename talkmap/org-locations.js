@@ -10,6 +10,11 @@ var addressPoints = [
     -77.0365427
   ],
   [
+    "Extreme Value Analysis Conference<br />Spatial impact of extremes of heat waves.; Edinburgh, UK.",
+    55.9533456,
+    -3.1883749
+  ],
+  [
     "Joint Statistical Meetings<br />Variable Selection with Deep Neural Networks using \u03b1-Regularized Variational Inference.; Toronto, Canada, USA.",
     46.8431221,
     -100.7967883
@@ -21,8 +26,8 @@ var addressPoints = [
   ],
   [
     "Joint Statistical Meetings<br />Variational inference aided variable selection for spatially structured high dimensional covariates.; Portland, Seattle, USA.",
-    47.533086,
-    -122.2924946
+    47.5329118,
+    -122.3846737
   ],
   [
     "Information and Statistics for Nuclear Experiment and Theory (ISNET)<br />Black Box Variational Bayesian Model Averaging.; East Lansing, USA.",
