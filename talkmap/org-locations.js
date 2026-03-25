@@ -5,19 +5,9 @@ var addressPoints = [
     -5.9953403
   ],
   [
-    "IEEE Global Conference on Signal and Information Processing, Global SIP<br />Adaptive statistical detection of false data injection attacks in smart grids.; Washington D.C., USA.",
-    38.8950368,
-    -77.0365427
-  ],
-  [
-    "Spatial impact of extremes of heat waves<br />Variable Selection with Deep Neural Networks using \u03b1-Regularized Variational Inference.; Denver, USA.",
-    39.7392364,
-    -104.984862
-  ],
-  [
-    "Extreme Value Analysis Conference<br />Spatial impact of extremes of heat waves.; Edinburgh, UK.",
-    55.9533456,
-    -3.1883749
+    "Joint Statistical Meetings<br />Statistical Foundation of Variational Bayes Computer Models.; Toronto, Canada, USA.",
+    46.8431221,
+    -100.7967883
   ],
   [
     "International Indian Statistical Association Conference<br />Data-adaptive trimming of the Hill estimator and detection of outliers in the extremes of heavy-tailed data.; Hyderabad, India.",
@@ -25,44 +15,24 @@ var addressPoints = [
     78.4740613
   ],
   [
-    "International Chinese Statistical Association<br />Statistically valid variational Bayes algorithm for Ising model parameter estimation; Ann Arbor, USA.",
+    "Spatial impact of extremes of heat waves<br />Variable Selection with Deep Neural Networks using \u03b1-Regularized Variational Inference.; Denver, USA.",
+    39.7392364,
+    -104.984862
+  ],
+  [
+    "International Chinese Statistical Association Conference<br />Statistically valid variational Bayes algorithm for Ising model parameter estimation; Ann Arbor, USA.",
     42.2813722,
     -83.7484616
   ],
   [
-    "Joint Statistical Meetings<br />Statistical Foundation of Variational Bayes Computer Models.; Toronto, Canada, USA.",
-    46.8431221,
-    -100.7967883
+    "IEEE Global Conference on Signal and Information Processing, Global SIP<br />Adaptive statistical detection of false data injection attacks in smart grids.; Washington D.C., USA.",
+    38.8950368,
+    -77.0365427
   ],
   [
-    "Workshop on Efficient Approximate Bayesian Inference, Banff International Research Station.<br />Variational inference aided variable selection for spatially structured high dimensional covariates.; Banff, Alberta, Canada.",
-    51.175076,
-    -115.5720773
-  ],
-  [
-    "Joint Statistical Meetings<br />Variational inference aided variable selection for spatially structured high dimensional covariates.; Portland, Seattle, USA.",
-    47.5330918,
-    -122.293427
-  ],
-  [
-    "Joint Statistical Meetings<br />Variable Selection with Deep Neural Networks using \u03b1-Regularized Variational Inference.; Toronto, Canada.",
-    43.6534817,
-    -79.3839347
-  ],
-  [
-    "International Conference of the ERCIM WG on Computational and Methodological Statistics<br />Comprehensive study of variational Bayes classification for dense deep neural networks; Virtual",
-    44.4939936,
-    11.3576917
-  ],
-  [
-    "Information and Statistics for Nuclear Experiment and Theory (ISNET)<br />Black Box Variational Bayesian Model Averaging.; East Lansing, USA.",
-    42.7320307,
-    -84.4721678
-  ],
-  [
-    "Indian Statistical Institute<br />Outlier detection based on extreme value theory and applications.; Kolkata, India.",
-    22.5726459,
-    88.3638953
+    "Extreme Value Analysis Conference<br />Spatial impact of extremes of heat waves.; Edinburgh, UK.",
+    55.9533456,
+    -3.1883749
   ],
   [
     "SIAM conference on Uncertainty Quantification<br />Layer Adaptive Node Selection in Bayesian Neural Networks: Statistical Guarantees and Implementation Details.; Atlanta, USA.",
@@ -70,8 +40,38 @@ var addressPoints = [
     -84.3898151
   ],
   [
+    "Information and Statistics for Nuclear Experiment and Theory (ISNET)<br />Black Box Variational Bayesian Model Averaging.; East Lansing, USA.",
+    42.7320307,
+    -84.4721678
+  ],
+  [
+    "International Conference of the ERCIM WG on Computational and Methodological Statistics<br />Comprehensive study of variational Bayes classification for dense deep neural networks; Virtual",
+    44.4939936,
+    11.3576917
+  ],
+  [
     "Extreme Value Analysis Conference, TU Delft.<br />Data-adaptive trimming of the Hill estimator and detection of outliers in the extremes of heavy-tailed data.; Delft, Netherlands.",
     52.0114017,
     4.35839
+  ],
+  [
+    "Workshop on Efficient Approximate Bayesian Inference, (BIRS)<br />Variational inference aided variable selection for spatially structured high dimensional covariates.; Banff, Canada.",
+    51.175076,
+    -115.5720773
+  ],
+  [
+    "Joint Statistical Meetings<br />Variable Selection with Deep Neural Networks using \u03b1-Regularized Variational Inference.; Toronto, Canada.",
+    43.6534817,
+    -79.3839347
+  ],
+  [
+    "Indian Statistical Institute<br />Outlier detection based on extreme value theory and applications.; Kolkata, India.",
+    22.5726459,
+    88.3638953
+  ],
+  [
+    "Joint Statistical Meetings<br />Variational inference aided variable selection for spatially structured high dimensional covariates.; Portland, Seattle, USA.",
+    47.5330918,
+    -122.293427
   ]
 ];
