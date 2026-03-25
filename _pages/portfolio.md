@@ -137,7 +137,7 @@ value theory and applications, 2023, *Scandinavian Journal of Statistics* 50 (3)
 <span style="font-size: 0.9em; color: #6b6b6b;">
 **Shrijita Bhattacharya**, Michael Kallitsis, Stilian Stoev, Data-adaptive trimming of the Hill
 estimator and detection of outliers in the extremes of heavy-tailed data, 2019, *Electronic
-Journal of Statistics 13(1), 1872-1925*.
+Journal of Statistics 13(1), 1872-1925* [[Code](https://github.com/shrijitabhattacharya/Data-adaptive-trimming-of-the-Hill-estimator)].
 </span>
 
 
