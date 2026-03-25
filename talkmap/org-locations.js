@@ -11,7 +11,7 @@ var addressPoints = [
   ],
   [
     "Joint Statistical Meetings<br />Variational inference aided variable selection for spatially structured high dimensional covariates.; Portland, Seattle, USA.",
-    47.5329118,
-    -122.3846737
+    47.533086,
+    -122.2924946
   ]
 ];
