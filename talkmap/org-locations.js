@@ -10,6 +10,11 @@ var addressPoints = [
     -77.0365427
   ],
   [
+    "Spatial impact of extremes of heat waves<br />Variable Selection with Deep Neural Networks using \u03b1-Regularized Variational Inference.; Denver, USA.",
+    39.7392364,
+    -104.984862
+  ],
+  [
     "Extreme Value Analysis Conference<br />Spatial impact of extremes of heat waves.; Edinburgh, UK.",
     55.9533456,
     -3.1883749
