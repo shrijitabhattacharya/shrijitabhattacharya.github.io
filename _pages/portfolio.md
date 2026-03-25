@@ -22,7 +22,7 @@ Jiefu Zhou and **Shrijita Bhattacharya**, Neural Autoregressive Flows based Vari
 </span>
 
 <span style="font-size: 0.9em; color: #6b6b6b;">
-Sumegha Premchandar, **Shrijita Bhattacharya**, and Tapabrata Maiti, 2023, *Notices of the American Mathematical Society*, 70(07) [[Code](https://github.com/sumegha1024/Normalizing-Flows-Review)].
+Sumegha Premchandar, **Shrijita Bhattacharya**, and Tapabrata Maiti, Normalizing Flows Aided Variational Inference: A Useful Alternative to MCMC?,  2023, *Notices of the American Mathematical Society*, 70(07) [[Code](https://github.com/sumegha1024/Normalizing-Flows-Review)].
 </span>
 
 {% endcapture %}
