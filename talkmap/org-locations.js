@@ -15,6 +15,11 @@ var addressPoints = [
     -79.3839347
   ],
   [
+    "Joint Statistical Meetings (JSM)<br />Variational inference aided variable selection for spatially structured high dimensional covariates.; Portland, USA.",
+    45.5202471,
+    -122.674194
+  ],
+  [
     "Joint Statistical Meetings (JSM)<br />Spatial impact of extremes of heat waves.; Denver, USA.",
     39.7392364,
     -104.984862
@@ -31,8 +36,8 @@ var addressPoints = [
   ],
   [
     "Joint Statistical Meetings (JSM)<br />Statistical Foundation of Variational Bayes Computer Models.; Toronto, Canada, USA.",
-    46.8431221,
-    -100.7967883
+    46.843123,
+    -100.796902
   ],
   [
     "Workshop on Efficient Approximate Bayesian Inference at BIRS<br />Variational inference aided variable selection for spatially structured high dimensional covariates.; Banff, Canada.",
@@ -63,11 +68,6 @@ var addressPoints = [
     "International Chinese Statistical Association Conference (ICSA)<br />Statistically valid variational Bayes algorithm for Ising model parameter estimation; Ann Arbor, USA.",
     42.2813722,
     -83.7484616
-  ],
-  [
-    "Joint Statistical Meetings (JSM)<br />Variational inference aided variable selection for spatially structured high dimensional covariates.; Portland, Seattle, USA.",
-    47.533086,
-    -122.2924946
   ],
   [
     "Indian Statistical Institute (ISI)<br />Outlier detection based on extreme value theory and applications.; Kolkata, India.",
