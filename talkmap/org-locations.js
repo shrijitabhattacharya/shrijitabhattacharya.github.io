@@ -50,6 +50,11 @@ var addressPoints = [
     -84.4721678
   ],
   [
+    "Joint Statistical Meetings (JSM)<br />Variational inference aided variable selection for spatially structured high dimensional covariates.; Portland, Seattle, USA.",
+    47.533086,
+    -122.2924946
+  ],
+  [
     "Indian Statistical Institute (ISI)<br />Outlier detection based on extreme value theory and applications.; Kolkata, India.",
     22.5726459,
     88.3638953
@@ -65,13 +70,8 @@ var addressPoints = [
     -84.3898151
   ],
   [
-    "Joint Statistical Meetings (JSM)<br />Variational inference aided variable selection for spatially structured high dimensional covariates.; Portland, Seattle, USA.",
-    47.5329118,
-    -122.3846737
-  ],
-  [
     "Extreme Value Analysis Conference (EVA)<br />Data-adaptive trimming of the Hill estimator and detection of outliers in the extremes of heavy-tailed data.; Delft, Netherlands.",
-    52.0114017,
-    4.35839
+    51.9994572,
+    4.3627245
   ]
 ];
