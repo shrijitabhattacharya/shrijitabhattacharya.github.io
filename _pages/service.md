@@ -3,8 +3,11 @@ layout: archive
 permalink: /service/
 author_profile: true
 redirect_from:
-  - /software
+  - /service
 ---
+
+{% include base_path %}
+
 
 {% include base_path %}
 
