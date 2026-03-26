@@ -23,7 +23,7 @@ Outside MSU Service
     * [Statistics and Computing](https://link.springer.com/journal/11222)
     * [The American Statistician]
     * [Computational Statistics and Data Analysis](https://www.tandfonline.com/journals/utas20)
-* Reviewer for the following machine learning journals and conference:
+* Reviewer for the following engineering journals and conferences:
     * [IEEE Transaction on Neural Networks and Learning Systems](https://cis.ieee.org/publications/t-neural-networks-and-learning-systems)
     * [Neural Networks](https://www.sciencedirect.com/journal/neural-networks)
     * [International Conference on Artificial Intelligence and Statistics (AISTATS)](https://aistats.org/)
