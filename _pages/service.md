@@ -31,4 +31,9 @@ Outside MSU Service
 
 Within MSU Service
 ======
-
+* Chair and Member of Prelim Committee.
+* Chair and Member of Graduate Search Committee.
+* Chair and Member of Bylaws Committee.
+* Chair and Member of Diversity, Equity and Inclusion (DEI) Committee.
+* Chair and Member of Thesis Defense Committee.
+* Chair and Member of Faculty Search Committee.
