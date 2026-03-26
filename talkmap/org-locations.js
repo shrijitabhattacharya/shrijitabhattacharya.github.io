@@ -10,11 +10,6 @@ var addressPoints = [
     -122.674194
   ],
   [
-    "Joint Statistical Meetings (JSM)<br />Spatial impact of extremes of heat waves.; Denver, USA.",
-    39.7392364,
-    -104.984862
-  ],
-  [
     "Extreme Value Analysis Conference (EVA)<br />Spatial impact of extremes of heat waves.; Edinburgh, UK.",
     55.9533456,
     -3.1883749
@@ -60,9 +55,14 @@ var addressPoints = [
     78.4740613
   ],
   [
+    "Joint Statistical Meetings (JSM)<br />Spatial impact of extremes of heat waves.; Denver, USA.",
+    39.7392364,
+    -104.984862
+  ],
+  [
     "Extreme Value Analysis Conference (EVA)<br />Data-adaptive trimming of the Hill estimator and detection of outliers in the extremes of heavy-tailed data.; Delft, Netherlands.",
-    51.9994572,
-    4.3627245
+    52.0114017,
+    4.35839
   ],
   [
     "SIAM conference on Uncertainty Quantification<br />Layer Adaptive Node Selection in Bayesian Neural Networks: Statistical Guarantees and Implementation Details.; Atlanta, USA.",
