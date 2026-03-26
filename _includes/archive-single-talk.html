@@ -36,15 +36,21 @@
       <p class="page__meta"><i class="fa fa-clock" aria-hidden="true"></i> {% include read-time.html %}</p>
     {% endif %}
     {% if post.date %}
-  <p class="page__meta">
-    <i class="fa fa-clock" aria-hidden="true"></i>
-    {% if post.date_end %}
-      {{ post.date | date: '%B %d' }}–{{ post.date_end | date: '%d, %Y' }}
-    {% else %}
-      {{ post.date | date: '%B %d, %Y' }}
+      <p class="page__meta">
+        <i class="fa fa-clock" aria-hidden="true"></i>
+        {% if post.date_end %}
+          {% if post.date | date: '%B %Y' == post.date_end | date: '%B %Y' %}
+            {{ post.date | date: '%B %d' }}–{{ post.date_end | date: '%d, %Y' }}
+          {% elsif post.date | date: '%Y' == post.date_end | date: '%Y' %}
+            {{ post.date | date: '%B %d' }} – {{ post.date_end | date: '%B %d, %Y' }}
+          {% else %}
+            {{ post.date | date: '%B %d, %Y' }} – {{ post.date_end | date: '%B %d, %Y' }}
+          {% endif %}
+        {% else %}
+          {{ post.date | date: '%B %d, %Y' }}
+        {% endif %}
+      </p>
     {% endif %}
-  </p>
-{% endif %}
     {% if post.venue %}<p class="archive__item-excerpt" itemprop="description"><b>{{post.type}}</b>: {{ post.venue }},  {{post.location}} {% endif %}
     {% if post.excerpt %}<p class="archive__item-excerpt" itemprop="description">{{ post.excerpt | markdownify }}</p>{% endif %}
   </article>
