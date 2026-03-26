@@ -5,6 +5,11 @@ var addressPoints = [
     -79.3839347
   ],
   [
+    "Extreme Value Analysis Conference (EVA)<br />Spatial impact of extremes of heat waves.; Edinburgh, UK.",
+    55.9533456,
+    -3.1883749
+  ],
+  [
     "Joint Statistical Meetings (JSM)<br />Variational inference aided variable selection for spatially structured high dimensional covariates.; Portland, USA.",
     45.5202471,
     -122.674194
@@ -13,11 +18,6 @@ var addressPoints = [
     "Indian Statistical Institute (ISI)<br />Outlier detection based on extreme value theory and applications.; Kolkata, India.",
     22.5726459,
     88.3638953
-  ],
-  [
-    "Extreme Value Analysis Conference (EVA)<br />Spatial impact of extremes of heat waves.; Edinburgh, UK.",
-    55.9533456,
-    -3.1883749
   ],
   [
     "Joint Statistical Meetings (JSM)<br />Statistical Foundation of Variational Bayes Computer Models.; Toronto, Canada, USA.",
@@ -66,8 +66,8 @@ var addressPoints = [
   ],
   [
     "Extreme Value Analysis Conference (EVA)<br />Data-adaptive trimming of the Hill estimator and detection of outliers in the extremes of heavy-tailed data.; Delft, Netherlands.",
-    51.9994572,
-    4.3627245
+    52.0114017,
+    4.35839
   ],
   [
     "SIAM conference on Uncertainty Quantification<br />Layer Adaptive Node Selection in Bayesian Neural Networks: Statistical Guarantees and Implementation Details.; Atlanta, USA.",
