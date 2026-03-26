@@ -39,7 +39,13 @@
   <p class="page__meta">
     <i class="fa fa-clock" aria-hidden="true"></i>
     {% if post.date_end %}
-      {{ post.date | date: '%B %d' }}–{{ post.date_end | date: '%d, %Y' }}
+      {% if post.date | date: '%B %Y' == post.date_end | date: '%B %Y' %}
+        {{ post.date | date: '%B %d' }}–{{ post.date_end | date: '%d, %Y' }}
+      {% elsif post.date | date: '%Y' == post.date_end | date: '%Y' %}
+        {{ post.date | date: '%B %d' }} – {{ post.date_end | date: '%B %d, %Y' }}
+      {% else %}
+        {{ post.date | date: '%B %d, %Y' }} – {{ post.date_end | date: '%B %d, %Y' }}
+      {% endif %}
     {% else %}
       {{ post.date | date: '%B %d, %Y' }}
     {% endif %}
