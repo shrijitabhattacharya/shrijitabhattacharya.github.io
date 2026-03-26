@@ -25,6 +25,11 @@ var addressPoints = [
     -100.7967883
   ],
   [
+    "International Conference on Computational and Methodological Statistics (CMStatistics)<br />Comprehensive study of variational Bayes classification for dense deep neural networks; Virtual",
+    44.4939936,
+    11.3576917
+  ],
+  [
     "Workshop on Efficient Approximate Bayesian Inference at BIRS<br />Variational inference aided variable selection for spatially structured high dimensional covariates.; Banff, Canada.",
     51.175076,
     -115.5720773
@@ -33,11 +38,6 @@ var addressPoints = [
     "Information and Statistics for Nuclear Experiment and Theory (ISNET)<br />Black Box Variational Bayesian Model Averaging.; East Lansing, USA.",
     42.7320307,
     -84.4721678
-  ],
-  [
-    "International Conference on Computational and Methodological Statistics (CMStatistics)<br />Comprehensive study of variational Bayes classification for dense deep neural networks; Virtual",
-    44.4939936,
-    11.3576917
   ],
   [
     "IEEE Global Conference on Signal and Information Processing, Global SIP<br />Adaptive statistical detection of false data injection attacks in smart grids.; Washington D.C., USA.",
