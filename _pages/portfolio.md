@@ -149,6 +149,21 @@ Journal of Statistics 13(1), 1872-1925* [[Code](https://github.com/shrijitabhatt
 <div class="notice--warning">{{ out | markdownify }}</div>
 
 
+Grants
+======
 
+* [NAIRR Pilot grant: Bayesian Nonlinear Intrinsic Dimension Learning in ImageNet (Computational
+Resources Grant)](https://nairrpilot.org/projects/awarded?_requestNumber=NAIRR240098)
+ * PI: Shrijita Bhattacharya
+ * Funding Agency: NSF
+ * Total Award: 10000 hours of GPU use at Bridges-2 PSC.
+ * Dates: 2024-Present.
+		
+* [Collaborative Research: Variational Inference Approach to Computer Model Calibration, Uncertainty Quantification, Scalability, and Robustness:](https://www.nsf.gov/awardsearch/show-award?AWD_ID=1952856)
+ *  PI: Shrijita Bhattacharya
+ *  Funding Agency: NSF
+ *  Total Award Amount: $190,980.00
+ *  Dates: 09/2023-01/2026.
+		
 
 
