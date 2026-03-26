@@ -12,7 +12,7 @@ redirect_from:
 
 Outside MSU Service
 ======
-* Associate Editor for [Statistical Analysis and Data Mining](https://onlinelibrary.wiley.com/journal/19321872a) 
+* Associate Editor for [Statistical Analysis and Data Mining](https://onlinelibrary.wiley.com/journal/19321872a), 2026-Present.
 * NSF Panelist for [Mathematical Foundations of Artificial Intelligence (MFAI)](https://www.nsf.gov/funding/opportunities/mfai-mathematical-foundations-artificial-intelligence).
 * NSF Reviewer for [Graduate Research Fellowship Program (GRFP)](https://www.nsfgrfp.org/).
 * Reviewer for the following statistics journals:
