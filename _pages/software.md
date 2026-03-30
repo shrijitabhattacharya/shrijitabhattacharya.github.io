@@ -17,7 +17,7 @@ Reproducibility
 * [Comprehensive study of variational Bayes classification for dense deep neural networks](https://github.com/shrijitabhattacharya/Comprehensive-study-of-VB-classification-for-dense-DNNs) (2024) *Statistics and Computing* 34(1):17.
 * [Statistically valid variational Bayes algorithm for Ising model parameter estimation](https://github.com/stat-kim/vb-Ising) (2024) *Journal of Computational and Graphical Statistics* 33(1):75-84.
 * [Layer adaptive node selection in Bayesian neural networks: Statistical guarantees and implementation details](https://github.com/jsanket12/SS_IG) (2023) *Neural Networks* 167:309-330.
-* [Outlier detection based on extreme value theory and applications](https://github.com/shrijitabhattacharya/Outlier-detection-based-on-EVT-and-Applications) (2023) * Scandinavian Journal of Statistics* 50(3):1466-1502.
+* [Outlier detection based on extreme value theory and applications](https://github.com/shrijitabhattacharya/Outlier-detection-based-on-EVT-and-Applications) (2023) *Scandinavian Journal of Statistics* 50(3):1466-1502.
 * [Normalizing Flows Aided Variational Inference: A Useful Alternative to MCMC?](https://github.com/sumegha1024/Normalizing-Flows-Review) (2023) *Notices of the American Mathematical Society* 70(07).
 * [Black box variational Bayesian model averaging](https://github.com/kejzlarv/BBVBMA) (2023) *The American Statistician* 77(1):85-96.
 * [Variational Bayes Ensemble Learning Neural Networks With Compressed Feature Space](https://github.com/shrijitabhattacharya/VB-Ensemble-Learning-NNs-with-Compressed-Feature-Space) (2022) *IEEE Transactions on Neural Networks and Learning Systems* 35(1):1379-1385.
