@@ -88,7 +88,7 @@ Under this theme, we have exploited Ising distributions to capture the graphical
 <span style="font-size: 0.9em; color: #6b6b6b;">
 Siddhartha Nandy, Minwoo Kim, **Shrijita Bhattacharya**, Tapabrata Maiti, Variational inference
 aided variable selection for spatially structured high dimensional covariates, 2025,
-*Journal of Computational and Graphical Statistics* 35 (1), 482-493 [[Code](https://github.com/shrijitabhattacharya/VI-aided-variable-selection-with-Ising)].
+*Journal of Computational and Graphical Statistics* 35 (1), 482-493. [[Code](https://github.com/shrijitabhattacharya/VI-aided-variable-selection-with-Ising)].
 </span>
 
 <span style="font-size: 0.9em; color: #6b6b6b;">
@@ -112,14 +112,14 @@ Under this theme we developed a variational Bayes and empirical Bayes implementa
 
 <span style="font-size: 0.9em; color: #6b6b6b;">
 Mookyong Son, **Shrijita Bhattacharya**, Vojtech Kejzlar, Tapabrata Maiti, Statistical Foundation
-of Variational Bayes Computer Models, under revision at the *Journal of Nonparametric
-Statistics*. [[Code](https://github.com/shrijitabhattacharya/VB-Computer-Models)]. 
+of Variational Bayes Computer Models, 2026, *Journal of Nonparametric
+Statistics*, 1-20. [[Code](https://github.com/shrijitabhattacharya/VB-Computer-Models)]. 
 </span>
 
 <span style="font-size: 0.9em; color: #6b6b6b;">
 Vojtech Kejzlar, Mookyong Son, **Shrijita Bhattacharya**, Tapabrata Maiti, A fast, scalable,
 and calibrated computer model emulator: an empirical Bayes approach, 2021, *Statistics and
-Computing* 31(49), 1-49 [[Code]](https://github.com/kejzlarv/EB_Calibration).
+Computing* 31(49), 1-49. [[Code]](https://github.com/kejzlarv/EB_Calibration).
 </span>
 
 {% endcapture %}
@@ -135,13 +135,13 @@ Under this theme, we developed tail adjusted box-plots to identify outliers in d
 
 <span style="font-size: 0.9em; color: #6b6b6b;">
 **Shrijita Bhattacharya**, Francois Kamper, Jan Beirlant, Outlier detection based on extreme
-value theory and applications, 2023, *Scandinavian Journal of Statistics* 50 (3), 1466-1502 [[Code](https://github.com/shrijitabhattacharya/Outlier-detection-with-EVT)].
+value theory and applications, 2023, *Scandinavian Journal of Statistics* 50 (3), 1466-15002. [[Code](https://github.com/shrijitabhattacharya/Outlier-detection-with-EVT)].
 </span>
 
 <span style="font-size: 0.9em; color: #6b6b6b;">
 **Shrijita Bhattacharya**, Michael Kallitsis, Stilian Stoev, Data-adaptive trimming of the Hill
 estimator and detection of outliers in the extremes of heavy-tailed data, 2019, *Electronic
-Journal of Statistics 13(1), 1872-1925* [[Code](https://github.com/shrijitabhattacharya/Data-adaptive-trimming-of-the-Hill-estimator)].
+Journal of Statistics* 13(1), 1872-1925. [[Code](https://github.com/shrijitabhattacharya/Data-adaptive-trimming-of-the-Hill-estimator)].
 </span>
 
 
